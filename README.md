@@ -1,6 +1,6 @@
 # Evolução dos Animes Shonen
 
-Nome: CRistyan Véssimo Gomes de Oliveira
+Nome: Cristyan Véssimo Gomes de Oliveira
 
 Este projeto foi desenvolvido como parte de uma atividade prática de HTML.
 
